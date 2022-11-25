@@ -18,11 +18,6 @@ miniAKapi is only an simple HTTP API library for AKShare, built for AKSharers,wh
 2. then type `http://127.0.0.1:8083/api/public/stock_zh_a_hist` in your Chrome and you can fetch your data
 3. if you want to set parameter for API, then you just type like `http://127.0.0.1:8080/api/public/stock_zh_a_hist?symbol=600000`
 
-## Homepage
-
-AKTools set a simple homepage for user to provide simple reference information. When you set up your
-environment and deploy your local application, then you can type `http:127.0.0.1:8080` in your browser.
-We are developing more functions now, please pay more attention!
 
 ## Docker 安装
 ![image-20221126012056687](https://picgo-zxy.oss-cn-guangzhou.aliyuncs.com/typoreimgs/image-20221126012056687.png)
