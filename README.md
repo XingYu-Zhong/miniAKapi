@@ -14,7 +14,7 @@ miniAKapi is only an simple HTTP API library for AKShare, built for AKSharers,wh
 
 ## Fast Run
 
-1. just type the cmd/bash command: `python -m aktools`
+1. just type the cmd/bash command: `python -m  miniAKapi`
 2. then type `http://127.0.0.1:8083/api/public/stock_zh_a_hist` in your Chrome and you can fetch your data
 3. if you want to set parameter for API, then you just type like `http://127.0.0.1:8080/api/public/stock_zh_a_hist?symbol=600000`
 
